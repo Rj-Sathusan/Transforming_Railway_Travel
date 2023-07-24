@@ -1,0 +1,1660 @@
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\appsettings.json
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.staticwebassets.runtime.json
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.exe
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.deps.json
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\TRY.pdb
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\MessagePack.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.csproj.CopyComplete
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.dll
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.pdb
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\VS2022\source\repos\TRY\TRY\obj\Debug\net6.0\ref\TRY.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\VS2022\source\repos\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TRY\TRY\bin\Debug\net6.0\Google.Protobuf.dll
+D:\TRY\TRY\bin\Debug\net6.0\Humanizer.dll
+D:\TRY\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\TRY\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\TRY\TRY\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\TRY\TRY\bin\Debug\net6.0\MessagePack.dll
+D:\TRY\TRY\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Build.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TRY\TRY\bin\Debug\net6.0\dotnet-ef.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TRY\TRY\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TRY\TRY\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TRY\TRY\bin\Debug\net6.0\MySql.Data.dll
+D:\TRY\TRY\bin\Debug\net6.0\ZstdNet.dll
+D:\TRY\TRY\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+D:\TRY\TRY\bin\Debug\net6.0\MySqlConnector.dll
+D:\TRY\TRY\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Common.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\TRY\TRY\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\TRY\TRY\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TRY\TRY\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TRY\TRY\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRY\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TRY\TRY\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+D:\TRY\TRY\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRY\TRY\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+D:\TRY\TRY\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+D:\TRY\TRY\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+D:\TRY\TRY\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+D:\TRY\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+D:\TRY\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+D:\TRY\TRY\obj\Debug\net6.0\staticwebassets.build.json
+D:\TRY\TRY\obj\Debug\net6.0\staticwebassets.development.json
+D:\TRY\TRY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TRY\TRY\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+D:\TRY\TRY\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+D:\TRY\TRY\obj\Debug\net6.0\TRY.dll
+D:\TRY\TRY\obj\Debug\net6.0\refint\TRY.dll
+D:\TRY\TRY\obj\Debug\net6.0\TRY.pdb
+D:\TRY\bin\Debug\net6.0\Google.Protobuf.dll
+D:\TRY\bin\Debug\net6.0\Humanizer.dll
+D:\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\TRY\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\TRY\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\TRY\bin\Debug\net6.0\MessagePack.dll
+D:\TRY\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Build.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TRY\bin\Debug\net6.0\dotnet-ef.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TRY\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TRY\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TRY\bin\Debug\net6.0\MySql.Data.dll
+D:\TRY\bin\Debug\net6.0\ZstdNet.dll
+D:\TRY\bin\Debug\net6.0\MySqlConnector.dll
+D:\TRY\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Common.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\TRY\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\TRY\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\TRY\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\TRY\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\TRY\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TRY\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\TRY\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\TRY\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\TRY\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\TRY\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\TRY\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\TRY\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TRY\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TRY\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRY\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\TRY\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRY\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TRY\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRY\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\TRY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TRY\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRY\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TRY\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+D:\TRY\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRY\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+D:\TRY\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+D:\TRY\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+D:\TRY\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+D:\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+D:\TRY\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+D:\TRY\obj\Debug\net6.0\staticwebassets.build.json
+D:\TRY\obj\Debug\net6.0\staticwebassets.development.json
+D:\TRY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TRY\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+D:\TRY\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+D:\TRY\obj\Debug\net6.0\TRY.dll
+D:\TRY\obj\Debug\net6.0\refint\TRY.dll
+D:\TRY\obj\Debug\net6.0\TRY.pdb
+D:\TRY\bin\Debug\net6.0\appsettings.Development.json
+D:\TRY\bin\Debug\net6.0\appsettings.json
+D:\TRY\bin\Debug\net6.0\TRY.staticwebassets.runtime.json
+D:\TRY\bin\Debug\net6.0\TRY.exe
+D:\TRY\bin\Debug\net6.0\TRY.deps.json
+D:\TRY\bin\Debug\net6.0\TRY.runtimeconfig.json
+D:\TRY\bin\Debug\net6.0\TRY.dll
+D:\TRY\bin\Debug\net6.0\TRY.pdb
+D:\TRY\obj\Debug\net6.0\TRY.csproj.CopyComplete
+D:\TRY\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+D:\TRY\obj\Debug\net6.0\ref\TRY.dll
+D:\TRY\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\appsettings.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.staticwebassets.runtime.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.exe
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.deps.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.TRY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.build.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.CopyComplete
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\ref\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\appsettings.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.staticwebassets.runtime.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.exe
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.deps.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.TRY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.build.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TRY.props
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.csproj.CopyComplete
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\Rj_Sathusan\Downloads\CRUD-ASP.NET-CORE-master - Copy\CRUD-ASP.NET-CORE-master\obj\Debug\net6.0\ref\TRY.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\appsettings.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.staticwebassets.runtime.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.exe
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.deps.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.runtimeconfig.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.csproj.AssemblyReference.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.AssemblyInfoInputs.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.AssemblyInfo.cs
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.csproj.CoreCompileInputs.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.RazorAssemblyInfo.cs
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets\msbuild.TRY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets\msbuild.build.TRY.props
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TRY.props
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TRY.props
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\scopedcss\bundle\TRY.styles.css
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\scopedcss\projectbundle\TRY.bundle.scp.css
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.csproj.CopyComplete
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\refint\TRY.dll
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.pdb
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\TRY.genruntimeconfig.cache
+C:\Users\Rj_Sathusan\OneDrive\Esoft\Train_booking_website\obj\Debug\net6.0\ref\TRY.dll

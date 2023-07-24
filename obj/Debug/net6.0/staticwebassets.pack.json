@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TRY.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TRY.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\cs-select.css",
+      "PackagePath": "staticwebassets\\css\\cs-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\cs-skin-border.css",
+      "PackagePath": "staticwebassets\\css\\cs-skin-border.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\sourcesanspro-font.css",
+      "PackagePath": "staticwebassets\\css\\sourcesanspro-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\style2.css",
+      "PackagePath": "staticwebassets\\css\\style2.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\css\\superfish.css",
+      "PackagePath": "staticwebassets\\css\\superfish.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 4.jpeg",
+      "PackagePath": "staticwebassets\\images\\cover 4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 5.jpeg",
+      "PackagePath": "staticwebassets\\images\\cover 5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 6.jpeg",
+      "PackagePath": "staticwebassets\\images\\cover 6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 7.jpg",
+      "PackagePath": "staticwebassets\\images\\cover 7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 8.jpg",
+      "PackagePath": "staticwebassets\\images\\cover 8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 9.jpg",
+      "PackagePath": "staticwebassets\\images\\cover 9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover1.jpg",
+      "PackagePath": "staticwebassets\\images\\cover1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover2.jpg",
+      "PackagePath": "staticwebassets\\images\\cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover3.jpg",
+      "PackagePath": "staticwebassets\\images\\cover3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v8.jpg",
+      "PackagePath": "staticwebassets\\images\\form-v8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v81.jpg",
+      "PackagePath": "staticwebassets\\images\\form-v81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v82.jpg",
+      "PackagePath": "staticwebassets\\images\\form-v82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\loc.png",
+      "PackagePath": "staticwebassets\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\train.gif",
+      "PackagePath": "staticwebassets\\images\\train.gif"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\selectFx.js",
+      "PackagePath": "staticwebassets\\js\\selectFx.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\sticky.js",
+      "PackagePath": "staticwebassets\\js\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\js\\superfish.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TRY.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TRY.props",
+      "PackagePath": "build\\TRY.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TRY.props",
+      "PackagePath": "buildMultiTargeting\\TRY.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TRY.props",
+      "PackagePath": "buildTransitive\\TRY.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

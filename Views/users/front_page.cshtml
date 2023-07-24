@@ -1,0 +1,761 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Travel0 &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+	<meta name="author" content="FREEHTML5.CO" />
+
+  <!-- 
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE 
+	DESIGNED & DEVELOPED by FREEHTML5.CO
+		
+	Website: 		http://freehtml5.co/
+	Email: 			info@freehtml5.co
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	
+	<!-- Superfish -->
+	<link rel="stylesheet" href="css/superfish.css">
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Date Picker -->
+	<link rel="stylesheet" href="css/bootstrap-datepicker.min.css">
+	<!-- CS Select -->
+	<link rel="stylesheet" href="css/cs-select.css">
+	<link rel="stylesheet" href="css/cs-skin-border.css">
+	
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		<div id="fh5co-wrapper">
+		<div id="fh5co-page">
+
+		<header id="fh5co-header-section" class="sticky-banner">
+			<div class="container">
+				<div class="nav-header">
+					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
+					<h1 id="fh5co-logo"><a href="index.html"><i class="icon-airplane"></i>SwiftRail</a></h1>
+					<!-- START #fh5co-menu-wrap -->
+					<nav id="fh5co-menu-wrap" role="navigation">
+						<ul class="sf-menu" id="fh5co-primary-menu">
+							<p>Loyalty:00.00</p>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</header>
+
+
+		<!-- end:header-top -->
+	
+		<div class="fh5co-hero">
+			<div class="fh5co-overlay"></div>
+			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
+				<div class="desc">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-5 col-md-5">
+								<div class="tabulation animate-box">
+
+								  <!-- Nav tabs -->
+								   <ul class="nav nav-tabs" role="tablist">
+								      <li role="presentation" class="active">
+								      	<a href="#Trains" aria-controls="Trains" role="tab" data-toggle="tab">Booking</a>
+								      </li>
+								      <li role="presentation">
+								    	   <a href="#hotels" aria-controls="hotels" role="tab" data-toggle="tab">Check Ticket</a>
+								      </li>
+								    
+								   </ul>
+
+								   <!-- Tab panes -->
+									<div class="tab-content">
+									 <div role="tabpanel" class="tab-pane active" id="Trains">
+										<div class="row">
+											<img src="images/train.gif" width="100%" height="100%" >
+											<p class="bg-primary"> Your NIC No:************</p>
+
+										<div class="col-xxs-12 col-xs-6 mt">
+    <div class="input-field">
+        <label for="from">From:</label>
+        <select class="form-control" id="from" onchange="getTrainDetails()"> <!-- Updated id="from" -->
+            <option value="Batticaloa">Batticaloa</option>
+            <option value="Jaffna">Jaffna</option>
+            <option value="Colombo">Colombo</option>
+            
+        </select>
+    </div>
+</div>
+<div class="col-xxs-12 col-xs-6 mt">
+    <div class="input-field">
+        <label for="to">To:</label> <!-- Updated id="to" -->
+        <select class="form-control" id="to">
+           <option value="Batticaloa">Batticaloa</option>
+            <option value="Jaffna">Jaffna</option>
+            <option value="Colombo">Colombo</option>
+            
+        </select>
+    </div>
+</div>
+<div class="col-xxs-12 col-xs-6 mt alternate">
+    <div class="input-field">
+        <label for="date-start">Check In:</label>
+        <input type="text" class="form-control" id="date-start" placeholder="mm/dd/yyyy" />
+    </div>
+</div>
+<div class="col-xxs-12 col-xs-6 mt alternate">
+    <div class="input-field">
+        <label for="time">Time:</label> <!-- Updated id="time" -->
+        <select class="form-control" id="time">
+            <option value="9 to 11">9 to 11</option>
+            <option value="12 to 2">12 to 2</option>
+            <option value="3 to 5">3 to 5</option>
+        </select>
+    </div>
+</div>
+
+											<div class="col-sm-12 mt">
+												<section>
+													<label for="class">Class:</label>
+													<select class="cs-select cs-skin-border" id="classDropdown" onchange="updateTotalAmount()">
+    <option value="1st class" disabled selected>1st class</option>
+    <option value="2nd class">2nd class</option>
+    <option value="3rd class">3rd class</option>
+</select>
+
+
+
+												</section>
+													<div class="checkbox form-control">
+														<input type="checkbox" id="loyaltyCheckbox">
+														<label for="" > Your Loyalty</label>
+													</div>
+<p class="bg-primary align-center" id="totalAmount">Your Total Amount: 100.00</p>
+											</div>
+											<div class="col-xxs-12 col-xs-6 mt">
+												
+											</div>
+											<div class="col-xxs-12 col-xs-6 mt">
+												
+											</div>
+											<div class="col-xs-12">
+												<input type="submit" class="btn btn-primary btn-block" onclick="getValues()" value="Search Train">
+											</div>
+										</div>
+									 </div>
+
+									 <div role="tabpanel" class="tab-pane" id="hotels">
+									 	<div class="row">
+											<img src="images/train.gif" width="100%" height="100%" >
+
+											<div class="col-xxs-12 col-xs-12 mt">
+												<div class="input-field">
+													<label for="from">Reference No</label>
+													<input type="text" class="form-control" id="from-place" placeholder="068767615675AB"/>
+												</div>
+											</div>
+											
+											
+										
+											<div class="col-xs-12">
+												<input type="submit" class="btn btn-primary btn-block" value="Search Packages">
+											</div>
+										</div>
+									 </div>
+									</div>
+
+								</div>
+							</div>
+
+
+
+							
+							<div class="desc2 animate-box">
+								<div class="col-sm-7 col-sm-push-1 col-md-7 col-md-push-1">
+									<!-- <p>HI</p> -->
+									<h2>Welcome to Your Ultimate Train Ticket Booking Solution
+
+									</h2>
+									<p>Discover the Convenience and Speed of SwiftRail's <br> Online Booking System
+
+									</p>
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		
+		<div id="fh5co-tours" class="fh5co-section-gray">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+						<br>
+						<h3></h3>
+						<p></p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
+						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+							<div class="desc">
+								<span></span>
+								<h3>Kandy</h3>
+								<span></span>
+								<span class="price"></span>
+								<a class="btn btn-primary btn-outline" href="#">Book Now <i class="icon-arrow-right22"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
+						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+							<div class="desc">
+								<span></span>
+								<h3>Jaffna</h3>
+								<span></span>
+								<span class="price"></span>
+								<a class="btn btn-primary btn-outline" href="#">Book Now <i class="icon-arrow-right22"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
+						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+							<div class="desc">
+								<span></span>
+								<h3>Colombo</h3>
+								<span></span>
+								<span class="price"></span>
+								<a class="btn btn-primary btn-outline" href="#">Book Now <i class="icon-arrow-right22"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 text-center animate-box">
+						<p><a class="btn btn-primary btn-outline btn-lg" href="#">See All Offers <i class="icon-arrow-right22"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="fh5co-features">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 animate-box">
+						<div class="mapouter"><div class="gmap_canvas">
+							<iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=University of Oxford&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+
+							</iframe><a href="https://connectionsgame.org/">Connections Game</a></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:800px;height:400px;}.gmap_iframe {width:100%!important;height:100%!important;}</style></div>
+
+
+						</div>
+					</div>
+				</div>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div id="fh5co-destination">
+			<div class="tour-fluid">
+				<div class="row">
+					<div class="col-md-12">
+						<ul id="fh5co-destination-list" class="animate-box">
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 9.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Elle</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover1.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Colombo</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover2.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Kandy</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover3.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Batticaloa</h2>
+									</div>
+								</a>
+							</li>
+
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 4.jpeg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Jaffna</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-half text-center">
+								<div class="title-bg">
+									<div class="case-studies-summary">
+										<h2>Most Popular Destinations</h2>
+										<span><a href="#">View All Destinations</a></span>
+									</div>
+								</div>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 5.jpeg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Anurathapura</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 6.jpeg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Polanaruwa</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 7.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Ampara</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 8.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Trincomale</h2>
+									</div>
+								</a>
+							</li>
+							<li class="one-forth text-center" style="background-image: url(images/cover\ 9.jpg); ">
+								<a href="#">
+									<div class="case-studies-summary">
+										<h2>Mattara</h2>
+									</div>
+								</a>
+							</li>
+						</ul>		
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="fh5co-blog-section" class="fh5co-section-gray">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+						<h3></h3>
+						<p></p>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row row-bottom-padded-md">
+					<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="fh5co-blog animate-box">
+							<a href="#"><img class="img-responsive" src="images/place-1.jpg" alt=""></a>
+							<div class="blog-text">
+								<div class="prod-title">
+									<h3><a href="#">30% Discount to Travel All Around the World</a></h3>
+									<span class="posted_by">Sep. 15th</span>
+									<span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p><a href="#">Learn More...</a></p>
+								</div>
+							</div> 
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="fh5co-blog animate-box">
+							<a href="#"><img class="img-responsive" src="images/place-2.jpg" alt=""></a>
+							<div class="blog-text">
+								<div class="prod-title">
+									<h3><a href="#">Planning for Vacation</a></h3>
+									<span class="posted_by">Sep. 15th</span>
+									<span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p><a href="#">Learn More...</a></p>
+								</div>
+							</div> 
+						</div>
+					</div>
+					<div class="clearfix visible-sm-block"></div>
+					<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="fh5co-blog animate-box">
+							<a href="#"><img class="img-responsive" src="images/place-3.jpg" alt=""></a>
+							<div class="blog-text">
+								<div class="prod-title">
+									<h3><a href="#">Visit Jaffna</a></h3>
+									<span class="posted_by">Sep. 15th</span>
+									<span class="comment"><a href="">21<i class="icon-bubble2"></i></a></span>
+									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p><a href="#">Learn More...</a></p>
+								</div>
+							</div> 
+						</div>
+					</div>
+					<div class="clearfix visible-md-block"></div>
+				</div>
+
+				<div class="col-md-12 text-center animate-box">
+					<p><a class="btn btn-primary btn-outline btn-lg" href="#">See All Post <i class="icon-arrow-right22"></i></a></p>
+				</div>
+
+			</div>
+		</div>
+		<!-- fh5co-blog-section -->
+		<div id="fh5co-testimonial" style="background-image:url(images/img_bg_1.jpg);">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Happy Clients</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="box-testimony animate-box">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quotes-right"></i></span></span>
+							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+						</blockquote>
+						<p class="author">R.Sathusan <a href="http://freehtml5.co/" target="_blank"></a> <span class="subtext">Creative Director</span></p>
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="box-testimony animate-box">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quotes-right"></i></span></span>
+							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;</p>
+						</blockquote>
+						<p class="author"> Hassan CEO <a href="http://freehtml5.co/" target="_blank"></a> <span class="subtext">Daraz CEO</span></p>
+					</div>
+					
+					
+				</div>
+				<div class="col-md-4">
+					<div class="box-testimony animate-box">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quotes-right"></i></span></span>
+							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+						</blockquote>
+						<p class="author">Shirmrah Founder <a href="#"></a> <span class="subtext"> Director</span></p>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		<footer>
+			<div id="footer">
+				<div class="container">
+					<div class="row row-bottom-padded-md">
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<p></p>
+						</div>
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<ul>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+							</ul>
+						</div>
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<ul>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+							</ul>
+						</div>
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<ul>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+							</ul>
+						</div>
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<ul>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+							</ul>
+						</div>
+						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
+							<h3></h3>
+							<ul>
+								<li><a href="#"></a></li>
+								<li><a href="#"></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 text-center">
+							<p class="fh5co-social-icons">
+								<a href="#"><i class="icon-twitter2"></i></a>
+								<a href="#"><i class="icon-facebook2"></i></a>
+								<a href="#"><i class="icon-instagram"></i></a>
+								<a href="#"><i class="icon-dribbble2"></i></a>
+								<a href="#"><i class="icon-youtube"></i></a>
+							</p>
+							<p>Copyright 2023 BEng(Hons)in Software Engineering Students<a href="#"></a>. All Rights Reserved. <br><i class="icon-heart3"></i>  <a href="http://freehtml5.co/" target="_blank"></a><a href="https://unsplash.com/" target="_blank"></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	
+
+	</div>
+	<!-- END fh5co-page -->
+
+	</div>
+	<!-- END fh5co-wrapper -->
+
+	<!-- jQuery -->
+<script>
+    function getValues() {
+		//window.location.href = '@Url.Action("GetAllTrainBookings", "TrainBooking")'
+        var user_id = 20;
+		var train_id = 30;
+		var final_price = 30;
+        var from = document.getElementById("from").value;
+        var to = document.getElementById("to").value;
+        var time = document.getElementById("time").value;
+        var date = document.getElementById("date-start").value;
+        var trainClass = document.getElementById("classDropdown").value;
+        var loyalty = document.getElementById("loyaltyCheckbox").checked;
+
+       $.ajax({
+    
+
+            type: "POST",
+            url: "/TrainBooking/booking",
+           data: { user_id: user_id,
+		   train_id:train_id,
+		   loyalty:loyalty,
+		   final_price:final_price,
+		   date:date
+
+		   },
+           success: function (response) {
+               // Display Bootstrap alert with the "Successfully signed up!" message
+               alert(loyalty);
+        },
+		error: function (xhr, status, error) {
+			alert("Signup error: " + error);
+		}
+	});
+}
+
+    
+
+
+	function getTrainDetails() {
+		
+	@* alert("hi"); *@
+    var from = document.getElementById("from").value;
+    var to = document.getElementById("to").value;
+
+    // Create a JSON object with the "from" and "to" values
+    var data = {
+        from: from,
+        to: to
+    };
+
+    // Send the AJAX request to the server
+    $.ajax({
+        type: "POST", // Use POST or GET based on your controller method
+        url: "/ControllerName/Available", // Replace "ControllerName" with your actual controller name
+        data: data,
+        dataType: "json",
+        success: function (response) {
+            // Update the view with the received train details
+            if (response && response.length > 0) {
+                var trainDetailsContainer = document.getElementById("trainDetailsContainer");
+                trainDetailsContainer.innerHTML = ""; // Clear previous data
+
+                // Loop through the received train details and display them
+                for (var i = 0; i < response.length; i++) {
+                    var train = response[i];
+                    var trainInfo = document.createElement("div");
+                    trainInfo.innerHTML = "Train Name: " + train.trainName + "<br>" +
+                                         "Departure Time: " + train.time0 + "<br>" +
+                                         "Arrival Time: " + train.time1 + "<br>" +
+                                         "Price: " + train.price + "<br><br>";
+
+                    trainDetailsContainer.appendChild(trainInfo);
+                }
+            } else {
+                alert("No trains available for the selected route.");
+            }
+        },
+        error: function () {
+            alert("Error occurred while fetching train details.");
+        }
+    });
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/sticky.js"></script>
+
+	<!-- Stellar -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Superfish -->
+	<script src="js/hoverIntent.js"></script>
+	<script src="js/superfish.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Date Picker -->
+	<script src="js/bootstrap-datepicker.min.js"></script>
+	<!-- CS Select -->
+	<script src="js/classie.js"></script>
+	<script src="js/selectFx.js"></script>
+	
+	<!-- Main JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
