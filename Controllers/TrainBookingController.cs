@@ -27,6 +27,10 @@ public  JsonResult booking(string user_id,string loyalty,string train_id,string 
 
        return new JsonResult(Ok(users));
         }
+ 
+
+
+        
 
 
        // Action method to retrieve and console write all data from TrainBooking table

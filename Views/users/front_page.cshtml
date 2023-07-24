@@ -134,7 +134,7 @@
 <div class="col-xxs-12 col-xs-6 mt">
     <div class="input-field">
         <label for="to">To:</label> <!-- Updated id="to" -->
-        <select class="form-control" id="to">
+        <select class="form-control" id="to" onchange="getTrainDetails()">
            <option value="Batticaloa">Batticaloa</option>
             <option value="Jaffna">Jaffna</option>
             <option value="Colombo">Colombo</option>
@@ -151,10 +151,10 @@
 <div class="col-xxs-12 col-xs-6 mt alternate">
     <div class="input-field">
         <label for="time">Time:</label> <!-- Updated id="time" -->
-        <select class="form-control" id="time">
-            <option value="9 to 11">9 to 11</option>
+        <select class="form-control" id="timeCombo">
+            <option  value="9 to 11">9 to 11</option>
             <option value="12 to 2">12 to 2</option>
-            <option value="3 to 5">3 to 5</option>
+            
         </select>
     </div>
 </div>
@@ -617,52 +617,61 @@
     
 
 
-	function getTrainDetails() {
-		
-	@* alert("hi"); *@
-    var from = document.getElementById("from").value;
-    var to = document.getElementById("to").value;
 
-    // Create a JSON object with the "from" and "to" values
-    var data = {
-        from: from,
-        to: to
-    };
+   function getTrainDetails() {
+        var from = document.getElementById("from").value;
+        var to = document.getElementById("to").value;
 
-    // Send the AJAX request to the server
-    $.ajax({
-        type: "POST", // Use POST or GET based on your controller method
-        url: "/ControllerName/Available", // Replace "ControllerName" with your actual controller name
-        data: data,
-        dataType: "json",
-        success: function (response) {
-            // Update the view with the received train details
-            if (response && response.length > 0) {
-                var trainDetailsContainer = document.getElementById("trainDetailsContainer");
-                trainDetailsContainer.innerHTML = ""; // Clear previous data
+        var data = {
+            from: from,
+            to: to
+        };
 
-                // Loop through the received train details and display them
-                for (var i = 0; i < response.length; i++) {
-                    var train = response[i];
-                    var trainInfo = document.createElement("div");
-                    trainInfo.innerHTML = "Train Name: " + train.trainName + "<br>" +
-                                         "Departure Time: " + train.time0 + "<br>" +
-                                         "Arrival Time: " + train.time1 + "<br>" +
-                                         "Price: " + train.price + "<br><br>";
+        $.ajax({
+            type: "POST",
+            url: "/train_details/Availability",
+            data: data,
+            dataType: "json",
+            success: function (response) {
+                var timeCombo = document.getElementById("timeCombo");
 
-                    trainDetailsContainer.appendChild(trainInfo);
+                // Clear the previous options
+                timeCombo.innerHTML = "";
+@* alert(response); *@
+                // Populate the combo box with available train times
+                if (response !== null && response.length > 0) {
+                    response.forEach(function (item) {
+                        if (item.time1) {
+                            var option1 = document.createElement("option");
+                            option1.value = item.time1;
+                            option1.text = item.time1;
+                            timeCombo.appendChild(option1);
+                        }
+
+                        if (item.time2) {
+                            var option2 = document.createElement("option");
+                            option2.value = item.time2;
+                            option2.text = item.time2;
+                            timeCombo.appendChild(option2);
+						}
+                        
+                    });
+                } else {
+                    // If no trains are available, show a default message
+                    var option = document.createElement("option");
+                    option.text = "No trains available";
+                    timeCombo.appendChild(option);
                 }
-            } else {
-                alert("No trains available for the selected route.");
+            },
+            error: function () {
+                alert("Error occurred while fetching train details.");
             }
-        },
-        error: function () {
-            alert("Error occurred while fetching train details.");
-        }
-    });
-}
-
+        });
+    }
 </script>
+
+
+
 
 
 
