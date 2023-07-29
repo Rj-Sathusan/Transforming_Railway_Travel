@@ -21,6 +21,10 @@ public class ApplicationDbContext : DbContext
     public DbSet<TRY.Models.user> user { get; set; }
     public DbSet<TRY.Models.TrainBooking> TrainBooking { get; set; }
     public DbSet<TRY.Models.train_details> train_details { get; set; }
+    public DbSet<TRY.Models.income_details> income_details { get; set; }
+
+    public DbSet<TRY.Models.BookingDetails> BookingDetails { get; set; }
+
 
 
 }

@@ -9,6 +9,8 @@ namespace TRY.Models
         public string? time01 { get; set; }
         public string? time02 { get; set; }
         public decimal price { get; set; }
+                public string? location { get; set; }
+
 
         public train_details()
 

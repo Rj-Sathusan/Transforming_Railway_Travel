@@ -10,7 +10,7 @@
          public string? NIC { get; set; }
         public string? Gmail { get; set; }
         public string? Password { get; set; }
-       
+       public int Loyalty { get; set; }
         public user()
 
         {

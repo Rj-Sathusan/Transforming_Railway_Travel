@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -44,31 +45,34 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="~/css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="~/css/icomoon.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="~/css/bootstrap.css">
 	
 	<!-- Superfish -->
-	<link rel="stylesheet" href="css/superfish.css">
+	<link rel="stylesheet" href="~/css/superfish.css">
 	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="~/css/magnific-popup.css">
 	<!-- Date Picker -->
-	<link rel="stylesheet" href="css/bootstrap-datepicker.min.css">
+	<link rel="stylesheet" href="~/css/bootstrap-datepicker.min.css">
 	<!-- CS Select -->
-	<link rel="stylesheet" href="css/cs-select.css">
-	<link rel="stylesheet" href="css/cs-skin-border.css">
+	<link rel="stylesheet" href="~/css/cs-select.css">
+	<link rel="stylesheet" href="~/css/cs-skin-border.css">
 	
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="~/css/style.css">
 
 
 	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script src="~/js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+
+
+
 
 	</head>
 	<body>
@@ -79,11 +83,11 @@
 			<div class="container">
 				<div class="nav-header">
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
-					<h1 id="fh5co-logo"><a href="index.html"><i class="icon-airplane"></i>SwiftRail</a></h1>
+					<h1 id="fh5co-logo"><a href="index.html"><i ></i>NRC</a></h1>
 					<!-- START #fh5co-menu-wrap -->
 					<nav id="fh5co-menu-wrap" role="navigation">
 						<ul class="sf-menu" id="fh5co-primary-menu">
-							<p>Loyalty:00.00</p>
+							<p id="loyalty" ><b> Loyalty:00.00</b> </p>
 						</ul>
 					</nav>
 				</div>
@@ -95,7 +99,7 @@
 	
 		<div class="fh5co-hero">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
+			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="background-image: url(~/images/cover_bg_1.jpg);">
 				<div class="desc">
 					<div class="container">
 						<div class="row">
@@ -117,8 +121,8 @@
 									<div class="tab-content">
 									 <div role="tabpanel" class="tab-pane active" id="Trains">
 										<div class="row">
-											<img src="images/train.gif" width="100%" height="100%" >
-											<p class="bg-primary"> Your NIC No:************</p>
+											<img src="~/images/train.gif" width="100%" height="100%" >
+											<p class="bg-primary" id="nic"> Your NIC No:************</p>
 
 										<div class="col-xxs-12 col-xs-6 mt">
     <div class="input-field">
@@ -173,9 +177,9 @@
 												</section>
 													<div class="checkbox form-control">
 														<input type="checkbox" id="loyaltyCheckbox">
-														<label for="" > Your Loyalty</label>
+														<label for=""  > <b>Add Loyalty</b> </label>
 													</div>
-<p class="bg-primary align-center" id="totalAmount">Your Total Amount: 100.00</p>
+<p class="bg-primary align-center" >Your Total Amount: 100.00</p>
 											</div>
 											<div class="col-xxs-12 col-xs-6 mt">
 												
@@ -184,26 +188,31 @@
 												
 											</div>
 											<div class="col-xs-12">
-												<input type="submit" class="btn btn-primary btn-block" onclick="getValues()" value="Search Train">
+												<input type="submit" class="btn btn-primary btn-block" onclick="getValues()" value="Book Now ">
 											</div>
 										</div>
 									 </div>
 
 									 <div role="tabpanel" class="tab-pane" id="hotels">
 									 	<div class="row">
-											<img src="images/train.gif" width="100%" height="100%" >
+											<img src="~/images/train.gif" width="100%" height="100%" >
 
 											<div class="col-xxs-12 col-xs-12 mt">
 												<div class="input-field">
 													<label for="from">Reference No</label>
-													<input type="text" class="form-control" id="from-place" placeholder="068767615675AB"/>
+													<input type="text" class="form-control" id="referenceNumberInput" placeholder="068767615675AB"/>
+													<!-- Assuming you have an input field where the user enters the reference number -->
+												@* // <input type="text" id="referenceNumberInput"> *@
+
 												</div>
 											</div>
 											
 											
 										
 											<div class="col-xs-12">
-												<input type="submit" class="btn btn-primary btn-block" value="Search Packages">
+												<button class="btn btn-primary btn-block" onclick="showBookingDetails($('#referenceNumberInput').val())">Get Booking Details</button>
+
+												@* <input type="submit" class="btn btn-primary btn-block" value="Search Packages"> *@
 											</div>
 										</div>
 									 </div>
@@ -245,7 +254,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="~/images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>Kandy</h3>
@@ -256,7 +265,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="~/images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>Jaffna</h3>
@@ -267,7 +276,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="~/images/cover 7.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>Colombo</h3>
@@ -309,28 +318,28 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul id="fh5co-destination-list" class="animate-box">
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 9.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover9.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Elle</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover1.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover3.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Colombo</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover2.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover2.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Kandy</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover3.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover1.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Batticaloa</h2>
@@ -338,7 +347,7 @@
 								</a>
 							</li>
 
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 4.jpeg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover8.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Jaffna</h2>
@@ -353,35 +362,35 @@
 									</div>
 								</div>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 5.jpeg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover7.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Anurathapura</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 6.jpeg); ">
+							<li class="one-forth text-center" style="background-image:url('https://localhost:7263/images/cover7.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Polanaruwa</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 7.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover1.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Ampara</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 8.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover9.jpg'); ">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Trincomale</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="background-image: url(images/cover\ 9.jpg); ">
+							<li class="one-forth text-center" style="background-image: url('https://localhost:7263/images/cover8.jpg');">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Mattara</h2>
@@ -407,7 +416,7 @@
 				<div class="row row-bottom-padded-md">
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="images/place-1.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="~/images/place-1.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">30% Discount to Travel All Around the World</a></h3>
@@ -421,7 +430,7 @@
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="images/place-2.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="~/images/place-2.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">Planning for Vacation</a></h3>
@@ -436,7 +445,7 @@
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="images/place-3.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="~/images/place-3.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">Visit Jaffna</a></h3>
@@ -458,7 +467,7 @@
 			</div>
 		</div>
 		<!-- fh5co-blog-section -->
-		<div id="fh5co-testimonial" style="background-image:url(images/img_bg_1.jpg);">
+		<div id="fh5co-testimonial" style="background-image:url(~/images/img_bg_1.jpg);">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -579,18 +588,42 @@
 	<!-- END fh5co-wrapper -->
 
 	<!-- jQuery -->
+
+
+
+
 <script>
+    // Read the id value from the ViewBag
+	var train_id=0;
+	var final_price=0;
+    var user_id = @ViewBag.UserId;
+    var userNIC = @ViewBag.UserNIC;
+    var userLoyalty = @ViewBag.UserLoyalty;
+    var loyalty=0;
+  
+    document.getElementById("nic").textContent = "Your NIC No: " + userNIC;
+	document.getElementById("loyalty").textContent = "Your Loyalty: " + userLoyalty;
+
+
+
     function getValues() {
-		//window.location.href = '@Url.Action("GetAllTrainBookings", "TrainBooking")'
-        var user_id = 20;
-		var train_id = 30;
-		var final_price = 30;
+	
         var from = document.getElementById("from").value;
         var to = document.getElementById("to").value;
-        var time = document.getElementById("time").value;
+        var time = document.getElementById("timeCombo").value;
         var date = document.getElementById("date-start").value;
         var trainClass = document.getElementById("classDropdown").value;
-        var loyalty = document.getElementById("loyaltyCheckbox").checked;
+        var loyalty_statues = document.getElementById("loyaltyCheckbox").checked;
+
+console.log("loyalty_statues: ", loyalty_statues);
+if (loyalty_statues) {
+    loyalty = 10;
+    alert("true");
+} else {
+    loyalty = 0;
+    //loyalty=100;
+    alert("false");
+}
 
        $.ajax({
     
@@ -598,22 +631,29 @@
             type: "POST",
             url: "/TrainBooking/booking",
            data: { user_id: user_id,
+		   time:time,
 		   train_id:train_id,
 		   loyalty:loyalty,
+		   loyalty_statues,loyalty_statues,
 		   final_price:final_price,
 		   date:date
 
 		   },
            success: function (response) {
+			alert(response.value);
+			//alert(JSON.stringify(response));
                // Display Bootstrap alert with the "Successfully signed up!" message
-               alert(loyalty);
+			     //          alert(JSON.stringify(response));
+window.location.href = "https://book.stripe.com/test_00g4h41KO0Wb0KYeUV";
+
+              // alert(response);
         },
 		error: function (xhr, status, error) {
 			alert("Signup error: " + error);
 		}
 	});
 }
-
+ 
     
 
 
@@ -633,13 +673,16 @@
             data: data,
             dataType: "json",
             success: function (response) {
+				
+          //  alert(train_id); 
+		//	alert("price");
                 var timeCombo = document.getElementById("timeCombo");
-
                 // Clear the previous options
                 timeCombo.innerHTML = "";
-@* alert(response); *@
                 // Populate the combo box with available train times
                 if (response !== null && response.length > 0) {
+					 train_id = response[0].id;
+				 final_price = response[0].price;
                     response.forEach(function (item) {
                         if (item.time1) {
                             var option1 = document.createElement("option");
@@ -657,9 +700,11 @@
                         
                     });
                 } else {
+
                     // If no trains are available, show a default message
                     var option = document.createElement("option");
                     option.text = "No trains available";
+					showAlert("Sorry <br> Now No trains available for This Way");
                     timeCombo.appendChild(option);
                 }
             },
@@ -668,14 +713,83 @@
             }
         });
     }
+
+function showBookingDetails(referenceNumber) {
+    $.ajax({
+        type: "GET",
+        url: "/TrainBooking/GetBookingDetails",
+        data: { referenceNumber: referenceNumber },
+        dataType: "json",
+        success: function (response) {
+			  _show(response[0]);
+
+
+ 
+        },
+        error: function (xhr, status, error) {
+            alert('An error occurred while fetching booking details: ' + error);
+        }
+    });
+}
+
+function _show(response) {
+  var message =
+        "User Name: " + response.userName + "<br>" +
+    "  Train Name: " + response.trainName + "<br>" +
+    "  From: " + response.fromLocation +"<br>" +
+    "  To: " + response.toLocation +"<br>" +
+    "  Final Price: " + response.finalPrice +"/= <br>" +
+    "  Date: " + response.date +"<br>" +
+    "  Time: " + response.time;
+
+  		showAlert(message);
+
+}
+
 </script>
 
 
 
 
+    <script>
+       function showAlert(msg) {
+    var alertBox = document.createElement("div");
+    alertBox.style.position = "fixed";
+    alertBox.style.top = "50%";
+    alertBox.style.left = "50%";
+    alertBox.style.transform = "translate(-50%, -50%)";
+    alertBox.style.backgroundColor = "orange";
+    alertBox.style.color = "white";
+    alertBox.style.fontWeight = "bold";
+    alertBox.style.padding = "20px";
+    alertBox.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.2)";
+    alertBox.style.zIndex = "9999";
 
+    var message = msg;
+    var okButton = document.createElement("button");
+    okButton.textContent = "OK";
+    okButton.style.marginTop = "10px";
+    okButton.style.backgroundColor = "black";
+    okButton.style.color = "white";
+    okButton.style.padding = "10px 20px";
+    okButton.style.border = "none";
+    okButton.style.borderRadius = "5px";
+    okButton.style.cursor = "pointer";
+    okButton.style.position = "absolute";
+    okButton.style.bottom = "-30px";
+    okButton.style.left = "50%";
+    okButton.style.transform = "translateX(-50%)";
+    okButton.onclick = function () {
+        alertBox.remove();
+    };
 
+    // Use innerHTML instead of textContent to render the HTML tags
+    alertBox.innerHTML = message;
+    alertBox.appendChild(okButton);
+    document.body.appendChild(alertBox);
+}
 
+    </script>
 
 
 
@@ -739,31 +853,32 @@
 
 
 
-	<script src="js/jquery.min.js"></script>
+
+	<script src="~/js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
+	<script src="~/js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
+	<script src="~/js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<script src="js/sticky.js"></script>
+	<script src="~/js/jquery.waypoints.min.js"></script>
+	<script src="~/js/sticky.js"></script>
 
 	<!-- Stellar -->
-	<script src="js/jquery.stellar.min.js"></script>
+	<script src="~/js/jquery.stellar.min.js"></script>
 	<!-- Superfish -->
-	<script src="js/hoverIntent.js"></script>
-	<script src="js/superfish.js"></script>
+	<script src="~/js/hoverIntent.js"></script>
+	<script src="~/js/superfish.js"></script>
 	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
+	<script src="~/js/jquery.magnific-popup.min.js"></script>
+	<script src="~/js/magnific-popup-options.js"></script>
 	<!-- Date Picker -->
-	<script src="js/bootstrap-datepicker.min.js"></script>
+	<script src="~/js/bootstrap-datepicker.min.js"></script>
 	<!-- CS Select -->
-	<script src="js/classie.js"></script>
-	<script src="js/selectFx.js"></script>
+	<script src="~/js/classie.js"></script>
+	<script src="~/js/selectFx.js"></script>
 	
 	<!-- Main JS -->
-	<script src="js/main.js"></script>
+	<script src="~/js/main.js"></script>
 
 	</body>
 </html>

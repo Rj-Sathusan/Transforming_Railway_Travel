@@ -26,18 +26,19 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+ app.UseStaticFiles();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=users}/{action=FrontPage}");
+    pattern: "{controller=users}/{action=Index}");
 
 app.UseEndpoints(endpoints =>
-    {
-        endpoints.MapControllerRoute(
-            name: "front_page",
-            pattern: "front_page",
-            defaults: new { controller = "users", action = "FrontPage" });
+{
+    endpoints.MapControllerRoute(
+        name: "FrontPage",
+        pattern: "users/FrontPage/{id}/{nic}/{Loyalty}",
+        defaults: new { controller = "users", action = "FrontPage" });
 
-        // Additional endpoints can be defined here if needed
-    });
+    // Additional endpoints can be defined here if needed
+});
+
 app.Run();

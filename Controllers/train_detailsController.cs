@@ -21,7 +21,7 @@ public JsonResult Availability(string to, string from)
 {
    var query = _context.train_details
                 .Where(t => t._to == to && t._from == from && t.time01 != null )
-                .Select(t => new { Time1 = t.time01, Time2 = t.time02 })
+                .Select(t => new { Time1 = t.time01, Time2 = t.time02 , Id=t.id , Price=t.price })
                 .ToList();
 
             if (query.Count > 0)

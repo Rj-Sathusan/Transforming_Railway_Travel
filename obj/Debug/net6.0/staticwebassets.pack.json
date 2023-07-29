@@ -93,30 +93,6 @@
       "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 4.jpeg",
-      "PackagePath": "staticwebassets\\images\\cover 4.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 5.jpeg",
-      "PackagePath": "staticwebassets\\images\\cover 5.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 6.jpeg",
-      "PackagePath": "staticwebassets\\images\\cover 6.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 7.jpg",
-      "PackagePath": "staticwebassets\\images\\cover 7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 8.jpg",
-      "PackagePath": "staticwebassets\\images\\cover 8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover 9.jpg",
-      "PackagePath": "staticwebassets\\images\\cover 9.jpg"
-    },
-    {
       "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover1.jpg",
       "PackagePath": "staticwebassets\\images\\cover1.jpg"
     },
@@ -129,24 +105,48 @@
       "PackagePath": "staticwebassets\\images\\cover3.jpg"
     },
     {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v8.jpg",
-      "PackagePath": "staticwebassets\\images\\form-v8.jpg"
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover5.jpeg",
+      "PackagePath": "staticwebassets\\images\\cover5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover6.jpeg",
+      "PackagePath": "staticwebassets\\images\\cover6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover7.jpg",
+      "PackagePath": "staticwebassets\\images\\cover7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover8.jpg",
+      "PackagePath": "staticwebassets\\images\\cover8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\cover9.jpg",
+      "PackagePath": "staticwebassets\\images\\cover9.jpg"
     },
     {
       "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v81.jpg",
       "PackagePath": "staticwebassets\\images\\form-v81.jpg"
     },
     {
-      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v82.jpg",
-      "PackagePath": "staticwebassets\\images\\form-v82.jpg"
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\form-v83.jpg",
+      "PackagePath": "staticwebassets\\images\\form-v83.jpg"
     },
     {
       "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\loc.png",
       "PackagePath": "staticwebassets\\images\\loc.png"
     },
     {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\new.jpg",
+      "PackagePath": "staticwebassets\\images\\new.jpg"
+    },
+    {
       "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\images\\train.gif",
       "PackagePath": "staticwebassets\\images\\train.gif"
+    },
+    {
+      "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "C:\\Users\\Rj_Sathusan\\OneDrive\\Esoft\\Train_booking_website\\wwwroot\\js\\bootstrap-datepicker.min.js",

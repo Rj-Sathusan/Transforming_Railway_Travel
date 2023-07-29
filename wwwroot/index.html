@@ -30,7 +30,7 @@
 	<div class="page-content">
 		<div class="form-v8-content">
 			<div class="form-left">
-				<img src="images/new.jpg" width="100%" height="100%" alt="form">
+				<img src="images/form-v8.jpg" width="100%" height="100%" alt="form">
 			</div>
 			<div class="form-right">
 				<div class="tab">
@@ -64,7 +64,7 @@
 						</div>
 						<br>
 						<div class="form-row-last">
-							<input type="button" name="register" class="register" value="Sign in" onclick="Login_user()">
+							<input type="submit" name="register" class="register" value="Sign in" onclick="Login_user()">
 						</div>
 					</div>
 				</form>
@@ -99,7 +99,7 @@
 							</label>
 						</div>
 						<div class="form-row-last">
-							<input type="button" name="register" class="register" value="Sign Up" onclick="Save_user()">
+							<input type="submit" name="register" class="register" value="Sign Up" onclick="Save_user()">
 						</div>
 					</div>
 				</form>
@@ -155,12 +155,8 @@ $.ajax({
             dataType: "json",
             success: function (response) {
                 // The server response will be "Yes" if login is successful, "No user" if no user found, or an error message in case of failure
-                if (response === "No user") {
-                    // Display Bootstrap alert with the "Invalid credentials" message
-                  //  alert('Invalid credentials. Please check your Gmail and Password.');
-					showAlert('Invalid credentials. Please check your Gmail and Password.')
-                }
-				 else if (response !== null && response.length > 0) {
+ 			
+                if (response !== null && response.length > 0) {
                     showAlert("Login successful!");
 					var id = response[0].id;
 					var nic = response[0].nic;
@@ -170,6 +166,10 @@ $.ajax({
                     // Redirect to the logged-in user's dashboard or any other desired page
 				window.location.href = '@Url.Action("FrontPage", "users")/' + id+"/"+nic+"/"+loyalty;
 				 
+                } else if (response === "No user") {
+                    // Display Bootstrap alert with the "Invalid credentials" message
+                  //  alert('Invalid credentials. Please check your Gmail and Password.');
+					showAlert('Invalid credentials. Please check your Gmail and Password.')
                 } else {
                     // Display Bootstrap alert with the error message received from the server
                     showAlert('Login failed: ' + response);
@@ -180,7 +180,6 @@ $.ajax({
             }
         }); 
     }
-	
 
 
 	</script>
