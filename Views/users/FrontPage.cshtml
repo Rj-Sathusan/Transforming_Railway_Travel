@@ -8,25 +8,13 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Travel0 &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>NRC &mdash; Ticket Booking</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="FREEHTML5.CO" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
+  
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -164,23 +152,20 @@
 </div>
 
 											<div class="col-sm-12 mt">
-												<section>
-													<label for="class">Class:</label>
-													<select class="cs-select cs-skin-border" id="classDropdown" onchange="updateTotalAmount()">
-    <option value="1st class" disabled selected>1st class</option>
-    <option value="2nd class">2nd class</option>
-    <option value="3rd class">3rd class</option>
-</select>
-
-
-
-												</section>
-													<div class="checkbox form-control">
-														<input type="checkbox" id="loyaltyCheckbox">
-														<label for=""  > <b>Add Loyalty</b> </label>
-													</div>
-<p class="bg-primary align-center" >Your Total Amount: 100.00</p>
-											</div>
+    <section>
+        <label for="class">Class:</label>
+        <select class="cs-select cs-skin-border" id="classDropdown" onchange="updateTotalAmount()">
+            <option value="1st class" disabled selected>1st class</option>
+            <option value="2nd class">2nd class</option>
+            <option value="3rd class">3rd class</option>
+        </select>
+    </section>
+    <div class="checkbox form-control">
+        <input type="checkbox" id="loyaltyCheckbox">
+        <label for=""> <b>Add Loyalty</b> </label>
+    </div>
+    <p class="bg-primary align-center" id="totalAmount">Your Total Amount: 100.00</p>
+</div>
 											<div class="col-xxs-12 col-xs-6 mt">
 												
 											</div>
@@ -599,7 +584,8 @@
     var user_id = @ViewBag.UserId;
     var userNIC = @ViewBag.UserNIC;
     var userLoyalty = @ViewBag.UserLoyalty;
-    var loyalty=0;
+    var loyalty = 0;
+	var price = 0;
   
     document.getElementById("nic").textContent = "Your NIC No: " + userNIC;
 	document.getElementById("loyalty").textContent = "Your Loyalty: " + userLoyalty;
@@ -618,11 +604,11 @@
 console.log("loyalty_statues: ", loyalty_statues);
 if (loyalty_statues) {
     loyalty = 10;
-    alert("true");
+    //alert("true");
 } else {
     loyalty = 0;
     //loyalty=100;
-    alert("false");
+    //alert("false");
 }
 
        $.ajax({
@@ -713,6 +699,26 @@ window.location.href = "https://book.stripe.com/test_00g4h41KO0Wb0KYeUV";
             }
         });
     }
+function updateTotalAmount(final_price) {
+	alert("worked")
+        var dropdown = document.getElementById("classDropdown");
+        var selectedClass = dropdown.value;
+
+       // var price = 100.00; // Default price
+
+        // Update price based on the selected class
+        if (selectedClass === "1st class") {
+            price = 200.00;
+        } else if (selectedClass === "2nd class") {
+            price = 100.00;
+        } else if (selectedClass === "3rd class") {
+            price = 50.00;
+        }
+
+        // Update the total amount text
+        var totalAmountElement = document.getElementById("totalAmount");
+        totalAmountElement.textContent = "Your Total Amount: " + final_price.toFixed(2) + " rs";
+}
 
 function showBookingDetails(referenceNumber) {
     $.ajax({
@@ -721,6 +727,7 @@ function showBookingDetails(referenceNumber) {
         data: { referenceNumber: referenceNumber },
         dataType: "json",
         success: function (response) {
+alert(JSON.stringify(response));
 			  _show(response[0]);
 
 
@@ -740,7 +747,8 @@ function _show(response) {
     "  To: " + response.toLocation +"<br>" +
     "  Final Price: " + response.finalPrice +"/= <br>" +
     "  Date: " + response.date +"<br>" +
-    "  Time: " + response.time;
+    "  Time: " + response.time +"<br>" +
+	"  Location: <a href='" + response.location + "'>" + response.location + "</a>";
 
   		showAlert(message);
 
