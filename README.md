@@ -55,6 +55,37 @@ The Railway Booking System is a comprehensive platform designed to simplify the 
 
 To install the required dependencies, open your terminal and run:
 
-```shell
 dotnet restore
+# Install the required dependencies:
+dotnet restore
+
+# Usage
+# Run the application:
+dotnet run
+
+# Access the application in your web browser at http://localhost:5000.
+
+# Objectives
+- Create an efficient and user-friendly railway booking system.
+- Provide real-time train information and ticket booking capabilities.
+- Ensure the security of user data and payment information.
+- Streamline train schedule management for administrators.
+- Enhance the overall user experience.
+
+# Motivation
+The Railway Booking System project is motivated by the desire to simplify the process of booking train tickets and efficiently managing train details. Our goal is to make train travel more accessible and convenient for passengers while providing railway administrators with effective tools for managing their operations.
+
+# Future Development
+Our plans for future development include:
+
+- Adding advanced features such as seat selection.
+- Developing a mobile app for on-the-go ticket booking.
+- Enhancing security measures to protect user data.
+- Expanding the railway network coverage.
+
+# Contributing
+Contributions to this project are welcome! Please read our Contributing Guidelines before submitting a pull request.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
