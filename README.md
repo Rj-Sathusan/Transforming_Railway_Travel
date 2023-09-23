@@ -21,7 +21,6 @@ The Railway Booking System is a comprehensive platform designed to simplify the 
 
 ![Project Screenshot](Resources/Readme1.png)
 
-**Note: This project is currently a work in progress.**
 
 ## Features
 
