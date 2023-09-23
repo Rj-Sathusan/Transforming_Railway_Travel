@@ -1,6 +1,6 @@
 # Railway Booking System
 
-![Project Banner](Resources/img1.png)
+![Project Banner](Resources/ss01.jpeg)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@
 
 The Railway Booking System is a comprehensive platform designed to simplify the process of booking train tickets and managing train details. This project provides a user-friendly interface for passengers to book tickets and for administrators to efficiently manage train schedules and bookings.
 
-![Project Screenshot](Resources/Readme1.png)
+![Project Screenshot](Resources/ss02.jpeg)
 
 
 ## Features
@@ -32,7 +32,7 @@ The Railway Booking System is a comprehensive platform designed to simplify the 
 - Automated email confirmations and notifications.
 - Accessibility features for visually impaired users.
 
-![Project Screenshot](Resources/Readme2.png)
+![Project Screenshot](Resources/ss03.jpeg)
 
 ## Technologies Used
 
@@ -42,6 +42,8 @@ The Railway Booking System is a comprehensive platform designed to simplify the 
 - **ORM:** Entity Framework Core
 - **Web Development:** Razor Pages
 - **UI Design:** Bootstrap
+- 
+![Project Screenshot](Resources/ss04.jpeg)
 
 ## Installation
 
