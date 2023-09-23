@@ -1,6 +1,6 @@
 # Railway Booking System
 
-![Project Banner](Resources/ss01.jpeg)
+![Project Banner](Resources/ss01.png)
 <img src="Resources/ss01.jpeg" alt="Project Banner" >
 
 ## Table of Contents
