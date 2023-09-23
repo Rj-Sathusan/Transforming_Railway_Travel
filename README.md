@@ -50,3 +50,11 @@ The Railway Booking System is a comprehensive platform designed to simplify the 
 
    ```sh
    git clone https://github.com/YourUsername/Railway-Booking-System
+
+# Installation
+
+To install the required dependencies, open your terminal and run:
+
+```shell
+dotnet restore
+
